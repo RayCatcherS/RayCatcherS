@@ -1,6 +1,6 @@
 ## Hi, I'm Stefano Romanelli👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RayCatcherS&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RayCatcherS&theme=github-dark-blue)](https://git.io/streak-stats) <!-- settings https://streak-stats.demolab.com/demo/ -->
 <!--
 **RayCatcherS/RayCatcherS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
