@@ -1,6 +1,8 @@
 ## Hi, I'm Stefano Romanelli👋
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RayCatcherS&theme=github-dark-blue)](https://git.io/streak-stats) <!-- settings https://streak-stats.demolab.com/demo/ -->
+
+## About me
 <!--
 **RayCatcherS/RayCatcherS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Git profile Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
