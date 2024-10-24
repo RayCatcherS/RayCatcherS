@@ -1,10 +1,7 @@
 ## Hi, I'm Stefano Romanelli 👋
 
-🔗 **Portfolio Highlight**: [Check out my portfolio](https://stefanoromanelli.it/) to explore my best projects and creative journey.
-
 I'm a **Bachelor's Computer Science Student**, passionate about **Unity Game Development** and experienced with projects in **Flutter**.
-
-
+🔗 **Portfolio Highlight**: [Check out my portfolio](https://stefanoromanelli.it/) to explore my projects and creative journey.
 
 
 
@@ -12,7 +9,7 @@ I'm a **Bachelor's Computer Science Student**, passionate about **Unity Game Dev
 [![GitHub Streak](https://streak-stats.demolab.com?user=RayCatcherS&theme=github-dark-blue)](https://git.io/streak-stats)
  <!-- settings https://streak-stats.demolab.com/demo/ -->
 
-### 🌟 My Work & Experience
+### 🚀 My Work & Experience
 
 - **Game Development**: Unity, C#
 - **Mobile Development**: Flutter, Dart
