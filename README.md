@@ -1,5 +1,7 @@
 ## Hi, I'm Stefano Romanelli 👋
 
+🔗 **Portfolio Highlight**: [Check out my portfolio](https://stefanoromanelli.it/) to explore my best projects and creative journey.
+
 I'm a **Bachelor's Computer Science Student**, passionate about **Unity Game Development** and experienced with projects in **Flutter**.
 
 
@@ -20,7 +22,7 @@ I'm a **Bachelor's Computer Science Student**, passionate about **Unity Game Dev
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
 
 ### 🌐 Portfolio
-Check out my portfolio: [My Portfolio](https://stefanoromanelli.it/)
+🚀 **Discover My Work**: [Visit My Portfolio](https://stefanoromanelli.it/) for a comprehensive look at my projects, skills, and achievements. It's packed with detailed content and showcases my dedication to game development, app design, and more!
 
 ### 📫 How to Reach Me
 
