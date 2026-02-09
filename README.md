@@ -1,7 +1,7 @@
 ## Hi, I'm Stefano Romanelli 👋
 
 
-I'm a **Computer Science graduate (BSc)**, passionate about **Unity game development** and experienced in building apps with **Flutter**.  
+I'm a **Computer Science graduate (BSc)**, passionate about **Unity game development** and software development.  
 🔗 **Portfolio**: [stefanoromanelli.it](https://stefanoromanelli.it/) — a curated selection of my projects and work.
 
 ### 🚀 Skills & Focus
